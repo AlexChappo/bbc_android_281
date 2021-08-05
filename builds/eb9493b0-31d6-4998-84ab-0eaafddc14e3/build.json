@@ -1,0 +1,9 @@
+{
+    "_id": "eb9493b0-31d6-4998-84ab-0eaafddc14e3", 
+    "app": "/Users/bot/test_ai/apps/6c9c36c2-522b-4640-9a2b-8ac9640a5429/builds/eb9493b0-31d6-4998-84ab-0eaafddc14e3/app/bbc.mobile.news.uk-working.apk", 
+    "app_id": "6c9c36c2-522b-4640-9a2b-8ac9640a5429", 
+    "created": "2021-08-05 17:47:11.809220", 
+    "package": "bbc.mobile.news.uk", 
+    "platform": "android", 
+    "version": "working"
+}
